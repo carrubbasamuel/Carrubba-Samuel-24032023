@@ -1,2 +1,2 @@
-# Carrubba-Samuel-24032023
+# M2D2
 Esercizio JavaScript rispondi correttamente alle domande
